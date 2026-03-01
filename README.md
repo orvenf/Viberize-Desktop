@@ -84,7 +84,7 @@ These scripts are designed to run on a **fresh Windows 10/11** machine and will 
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+Under Construction
 
 ---
 
