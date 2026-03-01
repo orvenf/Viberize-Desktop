@@ -93,18 +93,3 @@ Under Construction
 **Orven F.**  
 GitHub: [@orvenf](https://github.com/orvenf)
 ```
-
----
-
-## ✅ How to Add the README on GitHub
-
-1. Go to your repository page: `https://github.com/orvenf/Viberize-Desktop`
-2. Click the **“Add file”** dropdown button (green button near the top right).
-3. Choose **“Create new file”**.
-4. In the **“Name your file…”** field, type `README.md`.
-5. Paste the entire content above into the large text box.
-6. Scroll down and click the green **“Commit new file”** button.
-
-That’s it! Your repository now has a beautiful README. You can repeat the same steps to add a `LICENSE` file if you wish (GitHub even provides a template when you name the file `LICENSE`).
-
-If you need any adjustments (like changing the author name or license), just edit the text before committing.
