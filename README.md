@@ -25,6 +25,15 @@ These scripts are designed to run on a **fresh Windows 10/11** machine and will 
 
 ---
 
+## 📸 Screenshots
+
+<p float="left">
+  <img src="screenshots/main-window.jpg" width="300" />
+  <img src="screenshots/main-sample.jpg" width="300" /> 
+  <img src="screenshots/main-settings.jpg" width="300" />
+</p>
+
+
 ## 🚀 How to Use
 
 1. **Clone or download** this repository to your Windows machine.  
