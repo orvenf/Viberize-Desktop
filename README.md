@@ -27,11 +27,24 @@ These scripts are designed to run on a **fresh Windows 10/11** machine and will 
 
 ## 📸 Screenshots
 
-<p float="left">
-  <img src="screenshots/main-window.jpg" width="300" />
-  <img src="screenshots/main-sample.jpg" width="300" /> 
-  <img src="screenshots/main-settings.jpg" width="300" />
-</p>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 1000px; margin: 0 auto;">
+  <div style="text-align: center;">
+    <img src="screenshots/main-window.jpg" style="width: 100%; border-radius: 8px;" alt="Main window">
+    <p style="margin-top: 6px; font-size: 0.9em; color: #555;">Main window</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/main-sample.jpg" style="width: 100%; border-radius: 8px;" alt="Sample output 1">
+    <p style="margin-top: 6px; font-size: 0.9em; color: #555;">Example with analysis</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/main-sample2.jpg" style="width: 100%; border-radius: 8px;" alt="Sample output 2">
+    <p style="margin-top: 6px; font-size: 0.9em; color: #555;">Auto-Viberize example</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="screenshots/main-settings.jpg" style="width: 100%; border-radius: 8px;" alt="Settings panel">
+    <p style="margin-top: 6px; font-size: 0.9em; color: #555;">Settings – RAG & AI config</p>
+  </div>
+</div>
 
 
 ## 🚀 How to Use
